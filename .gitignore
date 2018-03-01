@@ -1,4 +1,10 @@
 node_modules
+<<<<<<< HEAD
 *.log
 dist
 DS_Store
+=======
+.DS_Store
+*.log
+dist
+>>>>>>> c080a708c3a5cea77423efdf5e5b022e596e97b5
